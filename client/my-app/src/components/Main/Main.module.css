@@ -1,0 +1,17 @@
+.bg {
+    background-color: gray;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.blockSearch {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.blockSearch input {
+    width: 250px;
+    height: 20px;
+}

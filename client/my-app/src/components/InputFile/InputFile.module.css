@@ -1,0 +1,9 @@
+.blockContent {
+    height: 100px;
+    background-color: wheat;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 40px;
+}

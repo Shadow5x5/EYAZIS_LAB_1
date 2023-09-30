@@ -1,0 +1,31 @@
+
+.contentBlock{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    flex-direction: column;
+    background-color: aliceblue;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.buttonInfo{
+    height: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.mainBlock{
+    position: relative;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    z-index: 1000px;
+}
